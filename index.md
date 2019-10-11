@@ -17,4 +17,4 @@ description: The superior colonial region
 * Boats!
 * Equality!
 
-[Citations](citations.md)
+[Citations](citations.html)
