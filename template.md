@@ -9,3 +9,6 @@ description: This is just another page
 _yay_
 
 [back](./)
+
+Please do not delete, rename, or link to this file.
+This is only a template.
