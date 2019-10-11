@@ -11,8 +11,8 @@ description: The superior colonial region
 > Quote from person from region  
 
 #### Why we're better
-* Reason 1
-* Reason 2
-* Reason 3
+* No slaves!
+* Boats!
+* Equality!
 
 [Citations](citations.md)
