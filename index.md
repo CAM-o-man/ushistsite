@@ -8,7 +8,9 @@ description: The superior colonial region
 ## Informative Website
 ### 
 
-> Quote from person from region  
+> Liberty is the proper end and object of authority, and cannot subsist without it; and  
+> it is liberty to that which is good, just, and honest.
+>                                          -John Winthrop of the Massachusetts Bay Colony
 
 #### Why we're better
 * Reason 1
