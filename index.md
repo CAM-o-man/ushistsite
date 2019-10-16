@@ -14,7 +14,9 @@ description: The superior colonial region
 >                                          -*John Winthrop of the Massachusetts Bay Colony*
 
 ## Come visit New England!
-
+Here in New England, we're eager to see new faces. Here, you'll have religious<sup>1</sup> and political<sup>2</sup>
+freedom, and the opportunities are endless. Come join the town meeting, go fishing, build your own boat, or become
+an investor or entrepreneur. The opportunities are endless here in New England!
 
 
 
