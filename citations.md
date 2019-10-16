@@ -14,4 +14,4 @@ description: Proof we aren't lying about New England being the best
 * [Metacom's Rebellion](https://docs.google.com/document/d/1cNitmewibYLPWaoMlfNBSDEbcgph2xXsMo2Oc2aXZyo/edit)
 * [Pequot War](https://docs.google.com/document/d/1cNitmewibYLPWaoMlfNBSDEbcgph2xXsMo2Oc2aXZyo/edit)
 
-[back](index.html)
+[Back](index.html)
