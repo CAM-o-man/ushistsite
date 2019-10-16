@@ -92,7 +92,7 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### Small image~~~~
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
