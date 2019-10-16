@@ -32,6 +32,7 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 * Lots of Mountains
 
 
+
 ### Demographic
 >Largely English Puritans (Highly Educated)
 >* Focused on the community!
@@ -47,7 +48,7 @@ Our governor was appointed by the British government.
 * Trading (Fish, whale products, ships, timber products, 
 furs, maple syrup, copper, livestock products, horses, rum, whiskey and bee)
 
-##### Some of The Jobs:
+##### Jobs Available to You:
 * Fishers
 * Hunters
 * Shipbuilders
