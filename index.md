@@ -26,7 +26,11 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 
 ###Geography
 * Climate was generally cold with short growing seasons for crops.
-* ** Finish this please **
+* Close to the Ocean
+* Lots of Timber
+* Poor Rocky Soil
+* Lots of Mountains
+
 
 ### Demographic
 >Largely English Puritans (Highly Educated)
@@ -50,8 +54,9 @@ furs, maple syrup, copper, livestock products, horses, rum, whiskey and bee)
 * Artisans
 
 ### Colonial Society
-...
+There was no specific culture in the New England Colonies, it was mainly made for religious freedom. Colonies were close-knit with little social status.
+
 
 
 ### Relations With the Native Population
-...
+New England had a… strained… relationship with natives. There was a destructive war with the Pequot tribe and disastrous rebellion under Metacomet.
