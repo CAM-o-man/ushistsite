@@ -8,7 +8,7 @@ description: uptime, builds, etc.
 0.1.2 Nova
 
 # Build Status:
-[![Build Status](https://travis-ci.org/CAM-o-man/cayman.svg?branch=master)](https://travis-ci.com/CAM-o-man/cayman)
+[![Build Status](https://travis-ci.com/CAM-o-man/ushistsite.svg?branch=master)](https://travis-ci.com/CAM-o-man/ushistsite)
 #### Gem Version:
 ![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)
 
