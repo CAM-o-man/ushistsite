@@ -5,9 +5,7 @@ description: The superior colonial region
 ---
 
 # New England Colonies
-## Informative Website
-#### [Citations](citations.html)
-#### [Graphic Organizer](https://docs.google.com/document/d/1jbnEds4XBh2dtnkDA7ayxFIoE7iukRNVtOxXrQ5wA1o/edit)
+## Informative Website`
 
 ![ReligiousFreedomPng](https://i.ytimg.com/vi/IePvJ2Vlw2g/maxresdefault.jpg)
 > Liberty is the proper end and object of authority, and cannot subsist without it; and  
@@ -64,6 +62,6 @@ successful wars to cement our clear dominance.
 
 <!-- Test Comment -->
 ***
-<sup>[1] Only if you're Puritan</sup>
-<sup>[2] Only if you're a white anglo-saxon Puritan man who owns land</sup>
-<sup>[3] Only if you're Puritain</sup>
+<sup>[1] Only if you're Puritan</sup>  
+<sup>[2] Only if you're a white anglo-saxon Puritan man who owns land</sup>  
+<sup>[3] Only if you're Puritain</sup>  
