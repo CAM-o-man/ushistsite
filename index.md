@@ -11,12 +11,12 @@ description: The superior colonial region
 > Liberty is the proper end and object of authority, and cannot subsist without it; and  
 > it is liberty to that which is good, just, and honest.  
 >                                          -*John Winthrop of the Massachusetts Bay Colony*
-
+***
 ## Come visit New England!
 Here in New England, we're eager to see new faces. Here, you'll have religious<sup>1</sup> and political<sup>2</sup>
 freedom, and the opportunities are endless. Come join the town meeting, go fishing, build your own boat, or become
 an investor or entrepreneur. The opportunities are endless here in New England!
-
+***
 
 
 ### Our Type of Colony
@@ -24,9 +24,15 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 
 
 ### Geography
-* On the coast of the Atlantic(Lots of Fish)
-* <img src="https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg"
-alt="New England Landscape" style="position: absolute; width: 300px; height: auto; top: 1500px; left: 1000px;">    
+* On the coast of the Atlantic(Lots of Fish) <!-- Image Here -->
+<img src="https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg"
+alt="New England Landscape" 
+style="
+position: absolute; 
+width: 300px; 
+height: auto; 
+top: 1500px; 
+left: 1000px;">  
 * Lots of Timber(Great for Shipbuilding)
 * Lots of Mountains(Lots of Adventures)
 
@@ -50,8 +56,10 @@ furs, maple syrup, copper, livestock products, horses, rum, whiskey and bee)
 * Fishers
 * Hunters
 * Shipbuilders
-* Artisans
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pizarroshipbuilding.jpg" alt="Shipbuilding" style="
+* Artisans <!-- Image Here -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pizarroshipbuilding.jpg" 
+alt="Shipbuilding" 
+style="
 position: absolute;
 width: 300px;
 height: auto;
