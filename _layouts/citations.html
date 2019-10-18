@@ -26,7 +26,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
-      <a href="./citations.html" class="btn">Citations</a>
+      <a href="./index.html" class="btn">Main Page</a>
 
     </header>
 
@@ -35,8 +35,8 @@
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
+          <span class="site-footer-credits">This website is built using <a href="https://jekyllrb.com/">Jekyll</a>.</span>
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">The New England Colonial Immigration Board Website</a> is maintained by <a href="{{ site.github.owner_url }}">the New England Colonial Immigration Board</a>.</span>
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">See the black magic that powers this site.</a>
         {% endif %}
       </footer>
     </main>

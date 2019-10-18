@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: citations
 title: Citations
 description: Proof we aren't lying about New England being the best
 ---

@@ -10,7 +10,7 @@ description: The superior colonial region
 
 
 > Liberty is the proper end and object of authority, and cannot subsist without it; and  
-> it is liberty to that which is good, just, and honest.
+> it is liberty to that which is good, just, and honest.  
 >                                          -*John Winthrop of the Massachusetts Bay Colony*
 
 ## Come visit New England!
