@@ -24,13 +24,12 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 ### Our Type of Colony
 ##### - Corporate Charter
 
-
+![Geography](https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg)
 ### Geography
-* Climate was generally cold with short growing seasons for crops.
-* Close to the Ocean
-* Lots of Timber
-* Poor Rocky Soil
-* Lots of Mountains
+* On the coast of the Atlantic(Lots of Fish)
+* Lots of Timber(Great for Shipbuilding)
+* Lots of Mountains(Lots of Adventures)
+* 
 
 
 
