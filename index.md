@@ -26,7 +26,7 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 ### Geography
 * On the coast of the Atlantic(Lots of Fish)
 * <img src="https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg"
-alt="New England Landscape" style="position: absolute; width: 300px; height: auto; top: 2000px; left: 1000px;">    
+alt="New England Landscape" style="position: absolute; width: 300px; height: auto; top: 1500px; left: 1000px;">    
 * Lots of Timber(Great for Shipbuilding)
 * Lots of Mountains(Lots of Adventures)
 
@@ -51,6 +51,13 @@ furs, maple syrup, copper, livestock products, horses, rum, whiskey and bee)
 * Hunters
 * Shipbuilders
 * Artisans
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pizarroshipbuilding.jpg" alt="Shipbuilding" style="
+position: absolute;
+width: 300px;
+height: auto;
+top: 2000px;
+left: 1000px;
+">
 
 ### Colonial Society
 Our colonies are like close-knit families, but we're welcoming to all newcomers<sup>3</sup>.
