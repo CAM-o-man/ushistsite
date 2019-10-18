@@ -1,5 +1,8 @@
-What do we have for you?
-
+---
+layout: default
+title: Whats in store here!
+description: We got everything!
+---
 ### Activites that we have 
 ### Hunting 
 ##### We have animals such as... 
@@ -7,7 +10,7 @@ What do we have for you?
 * deer
 * rabbit
 * skunk
-* beaver (everyone's favorite)
+* beaver (everyone's favorite!)
 * raccoon
 ### Lumber 
 ##### Why not collect some finest woods 

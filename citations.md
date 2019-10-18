@@ -13,15 +13,6 @@ description: Proof we aren't lying about New England being the best
 * [Economics II](https://www.landofthebrave.info/trade-in-the-colonies.htm)
 * [Metacom's Rebellion](https://docs.google.com/document/d/1cNitmewibYLPWaoMlfNBSDEbcgph2xXsMo2Oc2aXZyo/edit)
 * [Pequot War](https://docs.google.com/document/d/1cNitmewibYLPWaoMlfNBSDEbcgph2xXsMo2Oc2aXZyo/edit)
-* [Graphic Organiser](https://docs.google.com/document/d/1jbnEds4XBh2dtnkDA7ayxFIoE7iukRNVtOxXrQ5wA1o/edit)
-* For image citations, look at the source code. Most images will be formatted in an easy-to-read format like
-this:
-```markdown
-![alt-text](http://image_source.com/img.png)
-```
-* Images that do not take up the whole page are formatted like this:
-```html
-<img src="http://image_source.com/img.png" alt="alt-text" style="ignore_this">
-```
+* [Graphic Organizer](https://docs.google.com/document/d/1jbnEds4XBh2dtnkDA7ayxFIoE7iukRNVtOxXrQ5wA1o/edit)
 
 [Back](index.html)
