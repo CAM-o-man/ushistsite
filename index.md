@@ -10,7 +10,10 @@ description: The superior colonial region
 ![ReligiousFreedomPng](https://i.ytimg.com/vi/IePvJ2Vlw2g/maxresdefault.jpg)
 > Liberty is the proper end and object of authority, and cannot subsist without it; and  
 > it is liberty to that which is good, just, and honest.  
->                                          -*John Winthrop of the Massachusetts Bay Colony*
+>                                          -*John Winthrop of the Massachusetts Bay Colony*  
+
+
+
 ***
 ## Come visit New England!
 Here in New England, we're eager to see new faces. Here, you'll have religious<sup>1</sup> and political<sup>2</sup>
