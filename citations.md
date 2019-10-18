@@ -13,6 +13,6 @@ description: Proof we aren't lying about New England being the best
 * [Economics II](https://www.landofthebrave.info/trade-in-the-colonies.htm)
 * [Metacom's Rebellion](https://docs.google.com/document/d/1cNitmewibYLPWaoMlfNBSDEbcgph2xXsMo2Oc2aXZyo/edit)
 * [Pequot War](https://docs.google.com/document/d/1cNitmewibYLPWaoMlfNBSDEbcgph2xXsMo2Oc2aXZyo/edit)
-* [Graphic Organiser](https://docs.google.com/document/d/1jbnEds4XBh2dtnkDA7ayxFIoE7iukRNVtOxXrQ5wA1o/edit)
+* [Graphic Organizer](https://docs.google.com/document/d/1jbnEds4XBh2dtnkDA7ayxFIoE7iukRNVtOxXrQ5wA1o/edit)
 
 [Back](index.html)
