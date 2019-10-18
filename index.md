@@ -5,7 +5,7 @@ description: The superior colonial region
 ---
 
 # New England Colonies
-## Informative Website`
+## Informative Website
 
 ![ReligiousFreedomPng](https://i.ytimg.com/vi/IePvJ2Vlw2g/maxresdefault.jpg)
 > Liberty is the proper end and object of authority, and cannot subsist without it; and  
@@ -20,14 +20,14 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 
 
 ### Our Type of Colony
-##### - Corporate Charter (We have more freedom than England)
+##### - Corporate Charter<sup>4</sup>
 
 ![Geography](https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg)
 ### Geography
-* On the coast of the Atlantic(Tons of fish to be caught)
+* On the coast of the Atlantic(Lots of Fish)
 * Lots of Timber(Great for Shipbuilding)
-* Lots of Mountains(Great for hunting and fur trapping)
-* Conneticut River Valley(Another great place for fishing)
+* Lots of Mountains(Lots of Adventures)
+* 
 
 
 
@@ -65,3 +65,4 @@ successful wars to cement our clear dominance.
 <sup>[1] Only if you're Puritan</sup>  
 <sup>[2] Only if you're a white anglo-saxon Puritan man who owns land</sup>  
 <sup>[3] Only if you're Puritan</sup>  
+<sup>[4] A [corporate charter](https://www.investopedia.com/terms/c/corporatecharter.asp), also known as a "charter" or "articles of incorporation," is a written document filed with the Secretary of State (or registrar in Canada) by the founders of a corporation. It details the major components of a company, such as its objectives, structure, and planned operations. If approved by the state, the company becomes a legal corporation.
