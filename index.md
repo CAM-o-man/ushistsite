@@ -35,8 +35,7 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 
 
 ### Demographic
->Largely English Puritans (Highly Educated)
->* Focused on the community!
+Come join our community of highly educated English Puritans
 
 ### Political Life
 Because of the charter granted to us, we were free to have their own style of government, 
@@ -56,9 +55,16 @@ furs, maple syrup, copper, livestock products, horses, rum, whiskey and bee)
 * Artisans
 
 ### Colonial Society
-There was no specific culture in the New England Colonies, it was mainly made for religious freedom. Colonies were close-knit with little social status.
-
+Our colonies are like close-knit families, but we're welcoming to all newcomers<sup>3</sup>.
+Come join us and become a New Englander!
 
 
 ### Relations With the Native Population
-New England had a… strained… relationship with natives. There was a destructive war with the Pequot tribe and disastrous rebellion under Metacomet.
+The natives don't bother New Englanders anymore after we showed them what we're made of in several highly
+successful wars to cement our clear dominance.
+
+<!-- Test Comment -->
+***
+<sup>[1] Only if you're Puritan</sup>
+<sup>[2] Only if you're a white anglo-saxon Puritan man who owns land</sup>
+<sup>[3] Only if you're Puritain</sup>
