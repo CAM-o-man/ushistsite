@@ -20,14 +20,14 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 
 
 ### Our Type of Colony
-##### - Corporate Charter
+##### - Corporate Charter (We have more freedom than England)
 
 ![Geography](https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg)
 ### Geography
-* On the coast of the Atlantic(Lots of Fish)
+* On the coast of the Atlantic(Tons of fish to be caught)
 * Lots of Timber(Great for Shipbuilding)
-* Lots of Mountains(Lots of Adventures)
-* 
+* Lots of Mountains(Great for hunting and fur trapping)
+* Conneticut River Valley(Another great place for fishing)
 
 
 
