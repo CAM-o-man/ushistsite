@@ -7,8 +7,9 @@ description: The superior colonial region
 # New England Colonies
 ## Informative Website
 #### [Citations](citations.html)
+#### [Graphic Organizer](https://docs.google.com/document/d/1jbnEds4XBh2dtnkDA7ayxFIoE7iukRNVtOxXrQ5wA1o/edit)
 
-
+![ReligiousFreedomPng](https://i.ytimg.com/vi/IePvJ2Vlw2g/maxresdefault.jpg)
 > Liberty is the proper end and object of authority, and cannot subsist without it; and  
 > it is liberty to that which is good, just, and honest.
 >                                          -*John Winthrop of the Massachusetts Bay Colony*
@@ -24,7 +25,7 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 ##### - Corporate Charter
 
 
-###Geography
+### Geography
 * Climate was generally cold with short growing seasons for crops.
 * Close to the Ocean
 * Lots of Timber
