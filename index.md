@@ -20,14 +20,15 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 
 
 ### Our Type of Colony
-##### - Corporate Charter<sup>4</sup>
+##### - Corporate Charter<sup>[4](corpchar)</sup>
 
 ![Geography](https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg)
 ### Geography
 * On the coast of the Atlantic(Lots of Fish)
+* <img src="https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg"
+alt="New England Landscape" style="position: absolute; width: 200px; height: auto; top: 2000px; left: 20px;">    
 * Lots of Timber(Great for Shipbuilding)
 * Lots of Mountains(Lots of Adventures)
-* 
 
 
 
@@ -65,4 +66,4 @@ successful wars to cement our clear dominance.
 <sup>[1] Only if you're Puritan</sup>  
 <sup>[2] Only if you're a white anglo-saxon Puritan man who owns land</sup>  
 <sup>[3] Only if you're Puritan</sup>  
-<sup>[4] A [corporate charter](https://www.investopedia.com/terms/c/corporatecharter.asp), also known as a "charter" or "articles of incorporation," is a written document filed with the Secretary of State (or registrar in Canada) by the founders of a corporation. It details the major components of a company, such as its objectives, structure, and planned operations. If approved by the state, the company becomes a legal corporation.
+[corpchar]: https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg
