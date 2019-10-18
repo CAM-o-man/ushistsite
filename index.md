@@ -20,13 +20,13 @@ an investor or entrepreneur. The opportunities are endless here in New England!
 
 
 ### Our Type of Colony
-##### - Corporate Charter<sup>[4](corpchar)</sup>
+##### - Corporate Charter<sup>[4](https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg)</sup>
 
-![Geography](https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg)
+
 ### Geography
 * On the coast of the Atlantic(Lots of Fish)
 * <img src="https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg"
-alt="New England Landscape" style="position: absolute; width: 200px; height: auto; top: 2000px; left: 20px;">    
+alt="New England Landscape" style="position: absolute; width: 300px; height: auto; top: 2000px; left: 1000px;">    
 * Lots of Timber(Great for Shipbuilding)
 * Lots of Mountains(Lots of Adventures)
 
@@ -66,4 +66,3 @@ successful wars to cement our clear dominance.
 <sup>[1] Only if you're Puritan</sup>  
 <sup>[2] Only if you're a white anglo-saxon Puritan man who owns land</sup>  
 <sup>[3] Only if you're Puritan</sup>  
-[corpchar]: https://indianapublicmedia.org/amomentofscience/files/2018/10/winding-by-nicholas-a-tonelli-via-flickr-940x627.jpg
