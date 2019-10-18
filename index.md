@@ -64,4 +64,4 @@ successful wars to cement our clear dominance.
 ***
 <sup>[1] Only if you're Puritan</sup>  
 <sup>[2] Only if you're a white anglo-saxon Puritan man who owns land</sup>  
-<sup>[3] Only if you're Puritain</sup>  
+<sup>[3] Only if you're Puritan</sup>  
