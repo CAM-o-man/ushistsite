@@ -37,3 +37,11 @@ description: We got everything!
 * Beech trees
 * Maple trees(yes, you can make syrup with it)
 ### Crafts
+ * Shipbuilding
+ * Rope Making
+ * Hunting
+ * Smithing
+ * Any other craft you want to do(except farming)
+ ![Rope Making](https://secure.i.telegraph.co.uk/multimedia/archive/01580/p_rope-making_1580574c.jpg)
+ ![Shipbuilding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3SNRiAOWZ218OlAQhxZC_frUG5-7ZeVczF0cv_lte6KyXQjagbw)
+ ![Smithing](https://www.irishtimes.com/polopoly_fs/1.3384644.1518084363!/image/image.jpg_gen/derivatives/box_620_330/image.jpg)
