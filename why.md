@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: whylayout
 title: Whats in store here!
 description: We got everything!
 ---
