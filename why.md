@@ -30,7 +30,7 @@ description: We got everything!
 * beaver (everyone's favorite!)
 * raccoon
 ### Lumber 
-##### Why not collect some finest woods 
+##### Why not collect some of the finest woods such as...
 * Ash trees
 * Birch trees
 * Maple trees
