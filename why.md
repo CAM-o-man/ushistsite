@@ -1,5 +1,9 @@
-https://cam-o-man.github.io/ushistsite/
-
+---
+layout: default
+title: Whats in store here!
+description: We got everything!
+---
+<!--
     An informational website promoting immigration to the New England colonies in the 1600s - 1700s
     Copyright (C) 2019 Connor McDermid, Sai Veeramachaneni, Benjamin Osias
 
@@ -15,3 +19,21 @@ https://cam-o-man.github.io/ushistsite/
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+-->
+### Activites that we have 
+### Hunting 
+##### We have animals such as... 
+* moose
+* deer
+* rabbit
+* skunk
+* beaver (everyone's favorite!)
+* raccoon
+### Lumber 
+##### Why not collect some finest woods 
+* Ash trees
+* Birch trees
+* Maple trees
+* Beech trees
+* Maple trees(yes, you can make syrup with it)
+### Crafts
